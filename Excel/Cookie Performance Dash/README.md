@@ -3,7 +3,7 @@
 This project contains an Excel interactive dashboard built to analyze the performance of different cookie categories.
 
 Files Included: 
-Cookies Performance Dashboard.xlsx – Final interactive dashboard,
+Cookies Performance Dashboard.xlsx – Final interactive dashboard
 Data Set.xlsx – Raw data used for analysis
 
 Project Summary: 
